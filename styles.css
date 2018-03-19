@@ -1,0 +1,14 @@
+.tradingCard{
+    width: 300px;
+    box-shadow: 10px 10px whitesmoke;
+    background-color: floralwhite;
+}
+
+.info{
+    background-color: seashell;
+}
+
+h3{
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+}
